@@ -1,0 +1,26 @@
+<http://dbpedia.org/resource/AIOD_leads> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> .
+<http://dbpedia.org/resource/AIOD_leads> <http://www.w3.org/2000/01/rdf-schema#label> "AIOD leads" .
+<http://dbpedia.org/resource/AIOD_leads> <http://www.w3.org/2000/01/rdf-schema#comment> "In land-line telephony, AIOD leads are Terminal equipment leads used solely to transmit automatic identified outward dialing (AIOD) data from a PBX to the public switched telephone network or to switched service networks (e.g., EPSCS), so that a vendor can provide a detailed monthly bill identifying long distance calling usage by individual PBX stations, tie trunks, or the attendant console. It resembles common channel signalling in that the AIOD leads provide data for all trunks, but is used only for billing, thus resembling automatic number identification." .
+<http://dbpedia.org/resource/AIOD_leads> <http://www.w3.org/2002/07/owl#sameAs> <http://rdf.freebase.com/ns/m.0b4gb> .
+<http://dbpedia.org/resource/AIOD_leads> <http://www.w3.org/2002/07/owl#sameAs> <http://www.wikidata.org/entity/Q4651976> .
+<http://dbpedia.org/resource/AIOD_leads> <http://www.w3.org/2002/07/owl#sameAs> <http://wikidata.dbpedia.org/resource/Q4651976> .
+<http://dbpedia.org/resource/AIOD_leads> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Telephony> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageID> "40703" .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageRevisionID> "744258679" .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Terminal_equipment> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Tie_line> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Data> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Category:Telephony> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Private_branch_exchange> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Attendant_console> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Common_channel_signalling> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Public_switched_telephone_network> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Automatic_number_identification> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Long_distance_calling> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Automatic_identified_outward_dialing> .
+<http://dbpedia.org/resource/AIOD_leads> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/AIOD_leads> .
+<http://dbpedia.org/resource/AIOD_leads> <http://www.w3.org/ns/prov#wasDerivedFrom> <http://en.wikipedia.org/wiki/AIOD_leads?oldid=744258679> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/abstract> "In land-line telephony, AIOD leads are Terminal equipment leads used solely to transmit automatic identified outward dialing (AIOD) data from a PBX to the public switched telephone network or to switched service networks (e.g., EPSCS), so that a vendor can provide a detailed monthly bill identifying long distance calling usage by individual PBX stations, tie trunks, or the attendant console. It resembles common channel signalling in that the AIOD leads provide data for all trunks, but is used only for billing, thus resembling automatic number identification." .
+<http://dbpedia.org/resource/AIOD_leads> <http://purl.org/voc/vrank#hasRank> "nodeID://b25141764" .
+<http://dbpedia.org/resource/AIOD_leads> <http://purl.org/linguistics/gold/hypernym> <http://dbpedia.org/resource/Equipment> .
+<http://dbpedia.org/resource/AIOD_leads> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/AIOD> .
