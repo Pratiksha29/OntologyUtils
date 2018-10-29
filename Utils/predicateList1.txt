@@ -1,0 +1,12 @@
+<http://dbpedia.org/ontology/industry>
+<http://dbpedia.org/ontology/product>
+<http://dbpedia.org/ontology/service>
+<http://dbpedia.org/property/products>
+<http://dbpedia.org/property/products/services>
+<http://dbpedia.org/property/majorInternationalWellKnownProducts>
+<http://dbpedia.org/property/manufacturer>
+<http://dbpedia.org/property/sector>
+<http://dbpedia.org/property/industries>
+<http://dbpedia.org/property/companyType>
+<http://dbpedia.org/property/keyPerson>
+<http://dbpedia.org/property/currentCeo>
